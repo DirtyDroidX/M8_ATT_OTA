@@ -1,0 +1,6 @@
+TaskID : 368350
+Project : M8_UL_K44_SENSE60_ATT_SECURITY
+SKU : Cingular USA[502]
+ROM Ver : 1.58.502.1
+Customization Id : 730463
+RCMS Id : 478

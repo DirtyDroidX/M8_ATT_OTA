@@ -1,0 +1,6 @@
+modelid: 0P6B12000
+cidnum: CWS__001
+mainver: 1.58.502.1
+btype:1
+aareport:1
+hbootpreupdate:12

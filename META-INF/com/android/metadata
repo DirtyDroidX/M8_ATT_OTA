@@ -1,0 +1,8 @@
+post-android-version=4.4.2
+post-build=htc/cingular_us/htc_m8:4.4.2/KOT49H/335549.1:user/release-keys
+post-taskid=368350
+post-timestamp=1397806967
+pre-android-version=4.4.2
+pre-build=htc/cingular_us/htc_m8:4.4.2/KOT49H/318610.18:user/release-keys
+pre-device=htc_m8
+pre-taskid=356159
